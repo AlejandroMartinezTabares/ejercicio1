@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Ejercicio en clase</title>
+<title>Titulo en Ejercicio1 en clase</title>
 </head>
 <body>
 
